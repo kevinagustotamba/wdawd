@@ -63,7 +63,7 @@ Number1.TextScaled = true
 Number1.TextSize = 14.000
 Number1.TextWrapped = false
 Number1.MouseButton1Down:connect(function()
-loadstring(game:HttpGet(('https://raw.githubusercontent.com/kevinagustotamba/123123123126312098/main/PoPit'),true))()
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/kevinagustotamba/dwawdawdawwdw/main/12sviruoughod91208921nsajwdnawl%3Bwwdawrf3d'),true))()
 end)
 
 UICorner_1.Parent = Number2
@@ -81,7 +81,7 @@ Number2.TextScaled = true
 Number2.TextSize = 14.000
 Number2.TextWrapped = false
 Number2.MouseButton1Down:connect(function()
-loadstring(game:HttpGet(('https://raw.githubusercontent.com/kevinagustotamba/awdaw/main/wdaw'),true))()
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/kevinagustotamba/dwawdawdawwdw/main/12sviruoughod91208921nsajwdnawl%3Bwwdawrf3d'),true))()
 end)
 
 
